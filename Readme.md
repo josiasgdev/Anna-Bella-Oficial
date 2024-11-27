@@ -1,0 +1,1 @@
+Projeto básiso de montagem e estilização da interface de um site fictício para o exercício do uso da lingagem de estilização CSS3 este projeto é parte de um curso de desenvolvimento web
